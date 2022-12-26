@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1622256822 source:c:\users\stmar\desktop\national university journey(hard copy)\csc252\csc_252_robot_class\main.cpp
+	<iostream>
+	"Grid_Format.h"
+	"Robot_Class.h"
+
+1622248645 c:\users\stmar\desktop\national university journey(hard copy)\csc252\csc_252_robot_class\grid_format.h
+
+1622256663 c:\users\stmar\desktop\national university journey(hard copy)\csc252\csc_252_robot_class\robot_class.h
+	<iostream>
+	<ostream>
+	"Grid_Format.h"
+
+1622250544 source:c:\users\stmar\desktop\national university journey(hard copy)\csc252\csc_252_robot_class\grid_format.cpp
+	"Grid_Format.h"
+	<iostream>
+
+1622256663 source:c:\users\stmar\desktop\national university journey(hard copy)\csc252\csc_252_robot_class\robot_class.cpp
+	"Robot_Class.h"
+	"Grid_Format.h"
+
+1622260422 source:c:\users\stmar\onedrive\desktop\national university journey(hard copy)\csc252\csc_252_robot_class\main.cpp
+	<iostream>
+	"Grid_Format.h"
+	"Robot_Class.h"
+
+1622252245 c:\users\stmar\onedrive\desktop\national university journey(hard copy)\csc252\csc_252_robot_class\grid_format.h
+
+1622260263 c:\users\stmar\onedrive\desktop\national university journey(hard copy)\csc252\csc_252_robot_class\robot_class.h
+	<iostream>
+	<ostream>
+	"Grid_Format.h"
+
