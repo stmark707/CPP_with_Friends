@@ -1,9 +1,11 @@
 #include <iostream>
+#include <cstdio>
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
-    return 0;
+    cout << "Hello world! with printf" << endl;
+    printf("hello world!");
+
 }
